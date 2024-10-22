@@ -27,3 +27,5 @@ Exploratory Data Analysis (EDA): Provided insights into sales trends, customer b
 Data Visualization: Used various charts (line plots, bar charts, heatmaps) to represent sales trends and correlations.
 Revenue Analysis: Investigated which products, months, and regions contributed the most to revenue.
 Customer Behavior: Analyzed factors like time of purchase, product categories, and customer location.
+
+![E-Commerce (1)](https://github.com/user-attachments/assets/a70b163a-5c04-4223-8230-84e11f8fcf47)
